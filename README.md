@@ -13,7 +13,7 @@ Using get.dummies, categorical features were changed to numerical features.
 
 Model prediction class.
 Heart disease binary target required classification algorithm.
-Decision tree and Random Forest algorithms were tested. 
+Decision tree and Random Forest algorithms as well as others were tested. 
 Random Forest had the best accuracy, percision, recall and F1-score.
 
 Results of train and test sets are presented. 
